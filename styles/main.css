@@ -1,0 +1,13 @@
+html {
+  background-color:#7E1E9C;
+}
+
+#navigation {
+  display: table;
+  list-style-type: none;
+}
+
+a: {
+    text-decoration: none;
+}
+
